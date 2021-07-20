@@ -1,5 +1,7 @@
 # Pacman-Game
 
+A packman game developed with HTML, CSS, JavaScript and jQuery
+
 # Link to github.io
 Web Site Address: https://web-development-environments-2021.github.io/assignment2_307902155_311400295/
 
